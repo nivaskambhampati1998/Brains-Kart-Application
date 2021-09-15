@@ -1,6 +1,9 @@
 
 # BrainsKart Application (MERN Stack / Full stack)
 ------------------------------------------------
+
+Description: It is the shopping website customers can buy the T-shirts,dresses etc for kids,womens,mens. Based on authentication customer will enter into the website. He will buy some products how much want he can then based on that customer can confirm the order. In this website there are two payments online payment and cash on. I used online payment using stripe api. After completion his payment he will receive the payment receipt. Here admin can only add/drop/update the products. 
+
 ### client : React + Bootstrap
 ### Server : Express + Node + Mongodb (mongoose)
 
