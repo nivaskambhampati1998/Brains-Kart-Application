@@ -6,18 +6,18 @@
 
 # Client side Features
 --------------------
-### React Hooks
-### React Redux
-### Routings , navigation
-### form validation
-### authentication
+->React Hooks
+->React Redux
+->Routings , navigation
+->form validation
+->authentication
 
 # server side Features
 ---------------------
-### password encription
-### JWT Authentication
-### Crditcard Payments
-### deployment to Heroku
+->password encription
+->JWT Authentication
+->Creditcard Payments
+->deployment to Heroku
 
 -----------------------------------------
 # Folder Structure
